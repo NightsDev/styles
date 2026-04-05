@@ -1,41 +1,52 @@
 {
-  "nerfeddio": [5771761],
+  "nerfeddio": [
+    5771761,
+    1
+  ],
   "dio": [],
-
-  "nerfedkj": [5771761],
+  "nerfedkj": [
+    5771761
+  ],
   "kj": [],
-
-  "nerfedexe": [5771761],
-  "exe": [], 
-
-  "nerfedmessi": [5771761],
-  "messi": [], 
-
-  "nerfedronaldo": [5771761],
+  "nerfedexe": [
+    5771761
+  ],
+  "exe": [],
+  "nerfedmessi": [
+    5771761
+  ],
+  "messi": [],
+  "nerfedronaldo": [
+    5771761
+  ],
   "ronaldo": [],
-
   "aizen": [],
-
-  "nerfedzantetsu": [5771761],
+  "nerfedzantetsu": [
+    5771761
+  ],
   "zantetsu": [],
-
-  "nerfednel/isagi": [5771761],
+  "nerfednel/isagi": [
+    5771761
+  ],
   "nel/isagi": [],
-
   "akane": [],
-
-  "dukeerisia": [5771761],
-
-  "cinder": [5771761],
-
-  "nerfedizayoi": [5771761],
+  "dukeerisia": [
+    5771761
+  ],
+  "cinder": [
+    5771761
+  ],
+  "nerfedizayoi": [
+    5771761
+  ],
   "izayoi": [],
-
   "milkytillys": [],
-
-  "nerfedstim": [5771761],
+  "nerfedstim": [
+    5771761
+  ],
   "stim": [],
-
-  "nerfedwally": [5771761],
+  "nerfedwally": [
+    5771761
+  ],
   "wally": []
 }
